@@ -1,0 +1,7 @@
+spring:
+  application:
+      name: mongo
+  data:
+    mongodb:
+      uri: <db uri>
+      database: <db name>
